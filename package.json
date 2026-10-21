@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-acevedo-cristian",
+  "version": "1.0.0",
+  "description": "Práctica de MongoDB y Mongoose - Instituto Politécnico Formosa",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "express",
+    "express-validator"
+  ],
+  "author": "Cristian Acevedo",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.9.5"
+  }
+}
